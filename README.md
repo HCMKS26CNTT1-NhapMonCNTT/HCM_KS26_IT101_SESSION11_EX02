@@ -1,4 +1,4 @@
-## **Phần 1 (Phân tích)**
+# **Phần 1 (Phân tích)**
 ## 3 quy tắc vàng mà bảng tính hiện tại đang vi phạm:
 - Header duy nhất
 - Không hàng trống
